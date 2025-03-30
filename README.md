@@ -1,4 +1,5 @@
 PT/BR: 
+
 Explicação do Funcionamento
 O código é dividido em funções principais: preprocess_pdf, search_word e a função principal main.
 
