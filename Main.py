@@ -28,7 +28,7 @@ def search_word(indexed_pdfs, word):
     return results
 
 def main():
-    folder_path = "./pdfs"  # Caminho da pasta contendo os PDFs
+    folder_path = input("Caminho do pdf")
     indexed_pdfs = {}
     
     print("Processando os PDFs...")
